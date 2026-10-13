@@ -1,0 +1,205 @@
+{
+ "build": "0.3.0+020f02a",
+ "version": "0.3.0",
+ "date": "2026-10-13",
+ "files": [
+  {
+   "path": "apple-touch-icon.png",
+   "size": 18042
+  },
+  {
+   "path": "assets/campaignStore-o4OIEVo7.js",
+   "size": 2517
+  },
+  {
+   "path": "assets/CampaignsView-BdgNhLr1.js",
+   "size": 2771
+  },
+  {
+   "path": "assets/CampaignView-jBk_lFEx.js",
+   "size": 183859
+  },
+  {
+   "path": "assets/CharBadge-B1JOHZtJ.js",
+   "size": 1067
+  },
+  {
+   "path": "assets/cinzel-latin-600-normal-CH_LB4su.woff",
+   "size": 17504
+  },
+  {
+   "path": "assets/cinzel-latin-600-normal-Dd5YO2UX.woff2",
+   "size": 15204
+  },
+  {
+   "path": "assets/cinzel-latin-700-normal-C-gK7hA8.woff",
+   "size": 17524
+  },
+  {
+   "path": "assets/cinzel-latin-700-normal-Dkw14w9r.woff2",
+   "size": 15184
+  },
+  {
+   "path": "assets/cinzel-latin-ext-600-normal-BEFdM_VE.woff2",
+   "size": 8352
+  },
+  {
+   "path": "assets/cinzel-latin-ext-600-normal-BY9Mq9iK.woff",
+   "size": 9780
+  },
+  {
+   "path": "assets/cinzel-latin-ext-700-normal-C24KFjuG.woff2",
+   "size": 8256
+  },
+  {
+   "path": "assets/cinzel-latin-ext-700-normal-CORa-yIv.woff",
+   "size": 9812
+  },
+  {
+   "path": "assets/Creature-FJOa9L-r.js",
+   "size": 20758
+  },
+  {
+   "path": "assets/DmView-DWCldfrW.js",
+   "size": 41842
+  },
+  {
+   "path": "assets/exchange-BZBIZ1HD.js",
+   "size": 7259
+  },
+  {
+   "path": "assets/ImportView-bVzisNLZ.js",
+   "size": 17384
+  },
+  {
+   "path": "assets/index-BIzSINL5.js",
+   "size": 570569
+  },
+  {
+   "path": "assets/index-DGvoNbAy.css",
+   "size": 53706
+  },
+  {
+   "path": "assets/inter-cyrillic-ext-wght-normal-BOeWTOD4.woff2",
+   "size": 25960
+  },
+  {
+   "path": "assets/inter-cyrillic-wght-normal-DqGufNeO.woff2",
+   "size": 18748
+  },
+  {
+   "path": "assets/inter-greek-ext-wght-normal-DlzME5K_.woff2",
+   "size": 11232
+  },
+  {
+   "path": "assets/inter-greek-wght-normal-CkhJZR-_.woff2",
+   "size": 18996
+  },
+  {
+   "path": "assets/inter-latin-ext-wght-normal-DO1Apj_S.woff2",
+   "size": 85068
+  },
+  {
+   "path": "assets/inter-latin-wght-normal-Dx4kXJAl.woff2",
+   "size": 48256
+  },
+  {
+   "path": "assets/inter-vietnamese-wght-normal-CBcvBZtf.woff2",
+   "size": 10252
+  },
+  {
+   "path": "assets/io-TSHA7jwP.js",
+   "size": 2775
+  },
+  {
+   "path": "assets/jsx-runtime-Cu4ijNec.js",
+   "size": 2828169
+  },
+  {
+   "path": "assets/LibraryView-D5oMYK3H.js",
+   "size": 17085
+  },
+  {
+   "path": "assets/links-DKz7Vg-A.js",
+   "size": 7336
+  },
+  {
+   "path": "assets/PlayerScreen-BnrrGz-h.js",
+   "size": 2597
+  },
+  {
+   "path": "assets/rolldown-runtime-CbXtAM7H.js",
+   "size": 589
+  },
+  {
+   "path": "assets/screen-DOtq5Lc8.js",
+   "size": 1855
+  },
+  {
+   "path": "assets/SourcebookView-CaWNhHx4.js",
+   "size": 8279
+  },
+  {
+   "path": "assets/sources-dDiobcJ0.js",
+   "size": 396
+  },
+  {
+   "path": "assets/src-IiCg6NkI.js",
+   "size": 56400
+  },
+  {
+   "path": "assets/ui-D-QNaXfs.js",
+   "size": 25617
+  },
+  {
+   "path": "assets/WizardView-CVRJmRQx.js",
+   "size": 21686
+  },
+  {
+   "path": "assets/workbox-window.prod.es5-Bd17z0YL.js",
+   "size": 5653
+  },
+  {
+   "path": "icon-512.png",
+   "size": 115218
+  },
+  {
+   "path": "icon.svg",
+   "size": 466
+  },
+  {
+   "path": "index.html",
+   "size": 1708
+  },
+  {
+   "path": "manifest.webmanifest",
+   "size": 492
+  },
+  {
+   "path": "sw.js",
+   "size": 3288
+  },
+  {
+   "path": "version.json",
+   "size": 63
+  },
+  {
+   "path": "workbox-9c191d2f.js",
+   "size": 15112
+  }
+ ],
+ "service": {
+  "path": "service/server.mjs",
+  "size": 1457105,
+  "hash": "01c18a67c81823f51726f2c19dc6690d2ec6dae6d1b7db81f4674079c24fca18"
+ },
+ "download": {
+  "path": "download/Charbogen-Windows.zip",
+  "size": 36592253
+ },
+ "extension": {
+  "version": "0.4.2",
+  "edge": "download/Charbogen-Companion-Edge.zip",
+  "firefox": "download/Charbogen-Companion-Firefox.zip"
+ }
+}
